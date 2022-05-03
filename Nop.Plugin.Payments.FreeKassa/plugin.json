@@ -1,0 +1,11 @@
+{
+  "Group": "Payment methods",
+  "FriendlyName": "FreeKassa",
+  "SystemName": "Payments.FreeKassa",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "Nurzhan Aitbayev",
+  "DisplayOrder": 0,
+  "FileName": "Nop.Plugin.Payments.FreeKassa.dll",
+  "Description": "This plugin allows paying with FreeKassa"
+}
